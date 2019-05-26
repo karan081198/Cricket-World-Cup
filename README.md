@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
+The ICC Cricket World Cup is the international championship of One Day International (ODI) cricket. The event is organised by the sport's governing body, the International Cricket Council (ICC), every four years, with preliminary qualification rounds leading up to a finals tournament. The tournament is one of the world's most viewed sporting events and is considered the "flagship event of the international cricket calendar" by the ICC.[1]
 
+ICC Cricket World Cup
+Icc cricket world cup trophy.jpg
 You can use the [editor on GitHub](https://github.com/karan081198/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
